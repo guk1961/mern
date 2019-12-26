@@ -1,0 +1,6 @@
+{
+    "port":5000,
+    "jwtSecret": "nabor simvolov",
+    "mongoUri": "mongodb+srv://guk:lfrjnf@cluster0-79xtn.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
